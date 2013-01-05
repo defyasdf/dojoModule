@@ -7,7 +7,7 @@ DojoModule
 
 ## Introduction
 
-DojoModule is a module for Zend Framework 2 that will enable easy use of Dojo 1.7.
+DojoModule is a module for Zend Framework 2 that will enable easy use of Dojo 1.8.1.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Add the following to your project root composer.json:
     {
         "repositories": [{ "type": "composer", "url": "https://raw.github.com/superdweebie/dojoModule/master" }],
         "require": {
-            "superdweebie/DojoModule": "dev-master"
+            "superdweebie/dojo-module": "dev-master"
         }
     }
 
