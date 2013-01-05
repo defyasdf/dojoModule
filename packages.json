@@ -1,13 +1,13 @@
 {
     "packages": {
         "defyasdf/dojo-module": {
-            "dev-master": {
+            "master": {
                 "name": "defyasdf/dojo-module",
-                "version": "dev-master",
+                "version": "master",
                 "source": {
                     "type": "git",
                     "url": "http://github.com/defyasdf/dojoModule",
-                    "reference": "dev-master"
+                    "reference": "master"
                 },
                 "type": "library"
             }
