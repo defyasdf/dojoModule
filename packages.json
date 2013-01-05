@@ -1,0 +1,16 @@
+{
+    "packages": {
+        "defyasdf/dojo-module": {
+            "dev-master": {
+                "name": "defyasdf/dojo-module",
+                "version": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "http://github.com/defyasdf/dojoModule",
+                    "reference": "dev-master"
+                },
+                "type": "library"
+            }
+        }
+    }
+}
