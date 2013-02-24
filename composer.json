@@ -1,13 +1,13 @@
 {
-    "name": "superdweebie/dojo-module",
-    "description": "Provides Dojo 1.7 module for zf2",
+    "name": "defyasdf/dojo-module",
+    "description": "Provides Dojo 1.8.3 module for zf2",
     "type": "library",
     "license": "MIT",
     "keywords": [
         "dojo",
         "zf2"
     ],
-    "homepage": "http://github.com/superdweebie/dojoModule",
+    "homepage": "http://github.com/defyasdf/dojoModule",
     "authors": [
         {
             "name": "Tim Roediger",
@@ -18,10 +18,7 @@
         "php": ">=5.3",
         "symfony/console": ">=2.0.13",
         "zendframework/zendframework": "dev-master",
-        "superdweebie/dojo" : "dev-master",
-        "superdweebie/json-controller" : "dev-master",
-        "superdweebie/module-unit-tester": "dev-master",
-        "zendframework/zendframework": "dev-master"
+        "superdweebie/dojo" : "dev-master"
     },
     "autoload": {
         "psr-0": {
