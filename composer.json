@@ -17,8 +17,8 @@
     "require": {
         "php": ">=5.3",
         "symfony/console": ">=2.0.13",
-        "zendframework/zendframework": "dev-master",
-        "superdweebie/dojo" : "dev-master"
+        "zendframework/zendframework": "2.*",
+        "defyasdf/dojo" : "dev-master"
     },
     "autoload": {
         "psr-0": {
